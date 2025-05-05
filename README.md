@@ -1,2 +1,2 @@
-# html-portfolio
+# HTML-Portfolio
 Online resume using HTML
